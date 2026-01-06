@@ -6,7 +6,7 @@ O projeto foi desenvolvido seguindo as melhores práticas de mercado, focando em
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Java 21 (LTS)
-* **Framework:** Spring Boot 3
+* **Framework:** Spring Boot 4
 * **Storage:** Amazon S3 (AWS SDK for Java v2)
 * **Containerização:** Docker & Dockerfile (Multi-stage build)
 * **Arquitetura:** Clean Architecture / Ports & Adapters
