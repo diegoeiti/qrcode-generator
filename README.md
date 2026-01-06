@@ -63,4 +63,6 @@ Response (200 OK):
 * **Variáveis de Ambiente:** Nenhuma chave de acesso (Access Keys) está exposta no código-fonte.
 * **Docker Multi-stage Build:** Garante uma imagem final mais leve e segura, contendo apenas o JRE necessário para execução.
 
+Projeto desenvolvido para fins de estudo; o storage temporário pode estar offline.
+
 Desenvolvido por **Diego Eiti Nakashima Fortunato**
