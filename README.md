@@ -66,3 +66,5 @@ Response (200 OK):
 Projeto desenvolvido para fins de estudo; o storage temporário pode estar offline.
 
 Desenvolvido por **Diego Eiti Nakashima Fortunato**
+
+https://github.com/user-attachments/assets/df3fef76-5f8c-49e1-8f7d-71f0699bb6f1
